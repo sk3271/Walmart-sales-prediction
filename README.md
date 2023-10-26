@@ -3,11 +3,11 @@ Walmart-sales-prediction
 ![Screenshot 2023-10-14 141439](https://github.com/sk3271/Walmart-sales-prediction/assets/117064680/e31d209a-836d-4a44-8bb1-26f7fc6ac8db)
 
 
-[https://github.com/Pradnya1208/Walmart-store-sales-prediction](https://github.com/sk3271/Walmart-sales-prediction/blob/main/Walmart_sales_forecasting.ipynb)#objectives
+#objectives
 
 Data from Walmart stores accross the US is given, and it is up to us to forecast their weekly sales. The data is already split into a training and a test set, and we want to fit a model to the training data that is able to forecast those weeks sales as accurately as possible. In fact, our metric of interest will be the weight Mean Absolute Error.
 
-[https://github.com/Pradnya1208/Walmart-store-sales-prediction](https://github.com/sk3271/Walmart-sales-prediction/blob/main/Walmart_sales_forecasting.ipynb)#dataset
+#dataset
 https://www.kaggle.com/avelinocaio/walmart-store-sales-forecasting/data
 
 This is the historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments In addition, Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of which are the Super Bowl, Labor Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks.
@@ -40,7 +40,7 @@ CPI - the consumer price index
 Unemployment - the unemployment rate
 IsHoliday - whether the week is a special holiday week
 
-https://github.com/Pradnya1208/Walmart-store-sales-prediction#implementation
+#implementation
 Libraries: sklearn Matplotlib pandas seaborn NumPy
 
 #Feedback
